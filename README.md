@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I'm working with Turing Team<br>Subgroup : Pioneers
+<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 
 
 ## 🌐 Socials:
