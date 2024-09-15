@@ -1,5 +1,5 @@
 ## Hi, I'm Elmira 👋
-Now that you give me your precious time, I’m taking you through a whole journey of expanding my knowledge and skills which you can perceive on my github account.<br/>
+Now you give me your precious time, I’m taking you through a whole journey of expanding my knowledge and skills which you can perceive on my github account.<br/>
 I would be so grateful if you contribute and play even a tiny role on this path with me.
 
 # 💫 About Me:
