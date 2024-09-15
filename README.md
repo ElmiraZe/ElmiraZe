@@ -6,7 +6,7 @@ I would be so grateful if you contribute and play even a tiny role on this path 
 🎓 I'm studying at Shiraz University.
 <br/>
 🤝 I’m collaborating with " Turing Team ".
-<img align="right" alt="coding" width="250"  height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-download-in-svg-png-gif-file-formats--female-developer-programming-product-teams-pack-design-development-illustrations-5607777.png"/> 
+<img align="right" alt="coding" width="240"  height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-illustration-download-in-svg-png-gif-file-formats--female-developer-programming-product-teams-pack-design-development-illustrations-5607777.png"/> 
 
 <img width="280" height="80" src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
 
